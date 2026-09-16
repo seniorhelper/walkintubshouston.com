@@ -35,7 +35,7 @@
    "url": "https://walkintubshouston.com/",
    "logo": "https://walkintubshouston.com/images/houston-walk-in-tubs-logo.webp",
    "telephone": "+1-888-779-2284",
-   "email": "info@eyetoad.com",
+   "email": "sales@agingsafelybaths.com",
    "parentOrganization": {
     "@type": "Organization",
     "name": "Aging Safely Baths",
@@ -53,7 +53,7 @@
    "image": "https://walkintubshouston.com/images/walk-in-tub-texas.jpg",
    "logo": "https://walkintubshouston.com/images/houston-walk-in-tubs-logo.webp",
    "telephone": "+1-888-779-2284",
-   "email": "info@eyetoad.com",
+   "email": "sales@agingsafelybaths.com",
    "parentOrganization": {
     "@id": "https://walkintubshouston.com/#org"
    },
@@ -918,7 +918,7 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
       </form>
   </div>
 </dialog>
-<span id="qcfg" hidden data-u="aW5mbw==" data-d1="ZXll" data-d2="dG9hZC5jb20="></span>
+<span id="qcfg" hidden data-u="aW5mbw==" data-d1="ZXll" data-d2="dG9hZC5jb20=" data-pu="c2FsZXM=" data-pd1="YWdpbmdzYWZlbHk=" data-pd2="YmF0aHMuY29t"></span>
 
 <script>
 (function(){
@@ -927,7 +927,7 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
   function dest(){ return atob(cfg.dataset.u) + String.fromCharCode(64) + atob(cfg.dataset.d1) + atob(cfg.dataset.d2); }
 
   document.querySelectorAll('a.eml').forEach(function(a){
-    var d = dest(); a.href = 'mailto:' + d; a.textContent = d;
+    var d = atob(cfg.dataset.pu) + String.fromCharCode(64) + atob(cfg.dataset.pd1) + atob(cfg.dataset.pd2); a.href = 'mailto:' + d; a.textContent = d;
   });
   var yr = document.getElementById('yr'); if (yr) yr.textContent = new Date().getFullYear();
 
