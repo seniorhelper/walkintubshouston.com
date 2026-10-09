@@ -808,6 +808,8 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
 </ul>
 <div class="gcta"><p><strong>Want someone to go through this checklist with you?</strong> That's exactly what our first call is for.</p><button class="btn btn-go" type="button" data-open-quote>Get my install quote</button></div>
 
+<p>Not ready to replace the tub yet? Start with our <a href="/senior-bathroom-safety-checklist/">senior bathroom safety checklist</a> for grab bars, water temperature, lighting and seating.</p>
+
 <h2 id="faq">17. Walk-in tub buying guide FAQ</h2>
 <div class="faq">
   <details><summary>How do I know what size walk-in tub I need?</summary><div class="a"><p>Start with the space and the bather. Measure the alcove length and width, the path through your home and the drain side, then consider the bather&#x27;s height, build and seat width needs. Compact footprints such as 30 x 52 inches and 28 x 51 inches fit many standard tub alcoves, while longer and wider models offer more room. We can recommend sizes once we have your measurements.</p></div></details>
@@ -938,15 +940,15 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
         return;
       }
       var thanks = 'Thank you. Your request was delivered and a specialist will call you soon. Need us sooner? Call ' + PHONE + '.';
-      if (form.elements['_honey'].value || !engaged || Date.now() - loadedAt < 4000){
-        form.reset(); setStatus(status, 'ok', thanks); return;
-      }
+      if (form.elements['_honey'].value){ return; }
+      if (Date.now() - loadedAt < 3500){ setStatus(status, 'bad', 'Give the form a moment, then send again.'); return; }
+      if (!engaged){ return; }
       var data = {
         name: name.value.trim(), phone: phone.value.trim(), zip: zip.value.trim(), email: email.value.trim(),
         project: form.elements['project'].value, timeline: form.elements['timeline'].value,
         installation: form.elements['install'].value, notes: form.elements['notes'].value.trim(),
         page: location.pathname, form_location: form.dataset.where,
-        _subject: 'New installation quote request - walkintubshouston.com', _template: 'table', _captcha: 'false'
+        _subject: 'Aging Safely Baths lead — walkintubshouston.com', _template: 'table', _captcha: 'false'
       };
       btn.disabled = true; btn.textContent = 'Sending...';
       setStatus(status, '', '');

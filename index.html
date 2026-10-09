@@ -846,7 +846,7 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
       <details><summary>What warranty comes with your handicap showers?</summary><div class="a"><p>Our handicap showers include a 30-year warranty on the entire shower. When our team does a white-glove installation, including demo, removal of your old tub or shower and full installation, you also get a 1-year labor warranty.</p></div></details>
       <details><summary>How do I get a quote?</summary><div class="a"><p>Call 1-888-779-2284 (BATH) or fill out the quote form on this page with your name, phone number and ZIP code. A specialist will call you back to talk through your bathroom, answer questions and give you a fast, accurate quote. There&#x27;s no pressure and no obligation.</p></div></details>
     </div>
-    <p style="margin-top:26px">Still deciding? Our <a href="/walk-in-tub-buying-guide/">walk-in tub buying guide</a> covers sizes, doors, drains, hydrotherapy and installation in depth.</p>
+    <p style="margin-top:26px">Still deciding? Our <a href="/walk-in-tub-buying-guide/">walk-in tub buying guide</a> covers sizes, doors, drains, hydrotherapy and installation in depth, and our <a href="/senior-bathroom-safety-checklist/">senior bathroom safety checklist</a> lists quick fixes you can make this week.</p>
   </div>
 </section>
 
@@ -965,15 +965,15 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
         return;
       }
       var thanks = 'Thank you. Your request was delivered and a specialist will call you soon. Need us sooner? Call ' + PHONE + '.';
-      if (form.elements['_honey'].value || !engaged || Date.now() - loadedAt < 4000){
-        form.reset(); setStatus(status, 'ok', thanks); return;
-      }
+      if (form.elements['_honey'].value){ return; }
+      if (Date.now() - loadedAt < 3500){ setStatus(status, 'bad', 'Give the form a moment, then send again.'); return; }
+      if (!engaged){ return; }
       var data = {
         name: name.value.trim(), phone: phone.value.trim(), zip: zip.value.trim(), email: email.value.trim(),
         project: form.elements['project'].value, timeline: form.elements['timeline'].value,
         installation: form.elements['install'].value, notes: form.elements['notes'].value.trim(),
         page: location.pathname, form_location: form.dataset.where,
-        _subject: 'New installation quote request - walkintubshouston.com', _template: 'table', _captcha: 'false'
+        _subject: 'Aging Safely Baths lead — walkintubshouston.com', _template: 'table', _captcha: 'false'
       };
       btn.disabled = true; btn.textContent = 'Sending...';
       setStatus(status, '', '');

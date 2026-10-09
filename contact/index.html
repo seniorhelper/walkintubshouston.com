@@ -582,15 +582,15 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
         return;
       }
       var thanks = 'Thank you. Your request was delivered and a specialist will call you soon. Need us sooner? Call ' + PHONE + '.';
-      if (form.elements['_honey'].value || !engaged || Date.now() - loadedAt < 4000){
-        form.reset(); setStatus(status, 'ok', thanks); return;
-      }
+      if (form.elements['_honey'].value){ return; }
+      if (Date.now() - loadedAt < 3500){ setStatus(status, 'bad', 'Give the form a moment, then send again.'); return; }
+      if (!engaged){ return; }
       var data = {
         name: name.value.trim(), phone: phone.value.trim(), zip: zip.value.trim(), email: email.value.trim(),
         project: form.elements['project'].value, timeline: form.elements['timeline'].value,
         installation: form.elements['install'].value, notes: form.elements['notes'].value.trim(),
         page: location.pathname, form_location: form.dataset.where,
-        _subject: 'New installation quote request - walkintubshouston.com', _template: 'table', _captcha: 'false'
+        _subject: 'Aging Safely Baths lead — walkintubshouston.com', _template: 'table', _captcha: 'false'
       };
       btn.disabled = true; btn.textContent = 'Sending...';
       setStatus(status, '', '');
