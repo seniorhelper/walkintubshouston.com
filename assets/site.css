@@ -319,3 +319,48 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
 .factcard dt{font-weight:800;color:var(--ink)}
 .factcard dd{margin:0;color:var(--body)}
 @media (max-width:420px){.factcard dl div{grid-template-columns:1fr;gap:2px}}
+/* BBB seal (Aging Safely Baths) */
+.bbb-seal{display:inline-flex;flex:0 0 auto;line-height:0;border-radius:6px}
+.bbb-seal img{display:block;width:200px;max-width:100%;height:auto}
+.bbb-seal:focus-visible{outline:3px solid #0a5ea8;outline-offset:3px}
+.bbb-d{align-self:center}
+.bbb-d img{width:150px}
+.bbb-row{display:none;align-items:center;justify-content:center;gap:12px;padding:8px 16px;background:#f2f7fa;border-bottom:1px solid #d3e1e9}
+.bbb-row .bbb-seal img{width:150px}
+.bbb-row-t{margin:0;font-size:14px;line-height:1.35;color:#566b7c;max-width:24ch}
+.bbb-row-t strong{display:block;color:#12304a;font-size:15px}
+@media (max-width:900px){.bbb-d{display:none!important}.bbb-row{display:flex}}
+@media (min-width:1024px){.bbb-row-t{max-width:none}}
+@media (max-width:359px){.bbb-row .bbb-seal img{width:130px}.bbb-row-t{font-size:13px}}
+.bbb-fcard{display:flex;flex-direction:column;align-items:flex-start;gap:8px;width:max-content;max-width:100%;box-sizing:border-box;background:#fff;border-radius:12px;padding:12px 16px 14px;margin:16px 0 14px;box-shadow:0 6px 18px rgba(0,0,0,.22)}
+.bbb-fl{font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;color:#0b2a42;line-height:1.2}
+.bbb-fcard .bbb-seal img{width:200px}
+.bbb-qbox{display:flex;align-items:center;gap:14px;margin:16px 0 0;padding:12px 14px;border:1px solid #d3e1e9;border-radius:12px;background:#fff;text-align:left}
+.bbb-qbox .bbb-seal img{width:150px}
+.bbb-qbox p{margin:0;font-size:14px;line-height:1.5;color:#566b7c}
+.bbb-qbox p strong{color:#12304a}
+.bbb-qbox p a{color:#0a5ea8;font-weight:700}
+@media (max-width:480px){.bbb-qbox{flex-direction:column;align-items:flex-start}}
+.bbb-vcard{background:#fff;border:1px solid #d3e1e9;border-radius:14px;padding:20px;margin:18px 0 0;text-align:left;color:#12304a}
+.bbb-vcard .bbb-seal{margin-bottom:12px}
+.bbb-vcard h2,.bbb-vcard h3{margin:0 0 6px;font-size:1.15rem;line-height:1.3;color:#12304a}
+.bbb-vcard p{margin:0 0 10px;font-size:15px;line-height:1.55;color:#566b7c}
+.bbb-vcard ul{margin:0;padding:0 0 0 1.15em;font-size:15px;line-height:1.55;color:#12304a}
+.bbb-vcard li{margin:0 0 6px}
+.bbb-vcard a:not(.bbb-seal){color:#0a5ea8;font-weight:700}
+.bbb-why{background:#f2f7fa;border-top:1px solid #d3e1e9;border-bottom:1px solid #d3e1e9;padding:52px 0}
+.bbb-why-in{display:grid;grid-template-columns:minmax(0,1fr) 260px;gap:40px;align-items:center}
+.bbb-why-k{margin:0 0 6px;font-size:13px;font-weight:800;letter-spacing:.08em;text-transform:uppercase;color:#0a5ea8}
+.bbb-why h2{margin:0 0 10px;color:#12304a}
+.bbb-why-intro{margin:0 0 22px;color:#566b7c;max-width:62ch;font-size:1.02rem;line-height:1.6}
+.bbb-why-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.bbb-why-i{background:#fff;border:1px solid #d3e1e9;border-radius:14px;padding:16px 18px}
+.bbb-why-i h3{margin:0 0 4px;font-size:1.05rem;line-height:1.3;color:#12304a}
+.bbb-why-i p{margin:0;font-size:.95rem;line-height:1.55;color:#566b7c}
+.bbb-why-side{background:#fff;border:1px solid #d3e1e9;border-radius:14px;padding:20px;text-align:center}
+.bbb-why-side .bbb-seal{margin:0 auto 12px}
+.bbb-why-side p{margin:0;font-size:15px;line-height:1.55;color:#566b7c}
+.bbb-why-side a:not(.bbb-seal){color:#0a5ea8;font-weight:800;white-space:nowrap}
+@media (max-width:900px){.bbb-why-in{grid-template-columns:minmax(0,1fr);gap:22px}.bbb-why-side{max-width:420px}}
+@media (max-width:600px){.bbb-why{padding:38px 0}.bbb-why-grid{grid-template-columns:minmax(0,1fr)}}
+@media (min-width:1181px){.bbb-d{display:none!important}.bbb-row{display:flex}.bbb-row-t{max-width:none}}
