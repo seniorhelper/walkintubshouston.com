@@ -364,3 +364,12 @@ dialog.qd .qcard{border:0;box-shadow:none;position:relative}
 @media (max-width:900px){.bbb-why-in{grid-template-columns:minmax(0,1fr);gap:22px}.bbb-why-side{max-width:420px}}
 @media (max-width:600px){.bbb-why{padding:38px 0}.bbb-why-grid{grid-template-columns:minmax(0,1fr)}}
 @media (min-width:1181px){.bbb-d{display:none!important}.bbb-row{display:flex}.bbb-row-t{max-width:none}}
+
+/* direct answer capsule and data charts */
+.answer{background:#eef7f2;border:2px solid #0b7a4b;border-left-width:8px;border-radius:6px;padding:16px 20px;margin:0 0 28px;color:#12304a;font-size:1.2rem;line-height:1.55;max-width:74ch}.answer p{margin:0;max-width:none}
+.chart{margin:24px 0;padding:16px 16px 14px;background:#fff;border:1px solid var(--line);border-radius:var(--r-m)}
+.chart svg{width:100%;height:auto;display:block;max-width:620px}
+.chart figcaption{font-size:1.02rem;color:var(--ink);margin-top:10px}
+.chart .src{font-size:.98rem;color:var(--muted);margin:6px 0 0}
+.tbl th[scope=row]{background:#fff;font-weight:800}
+@media (max-width:560px){.answer{font-size:1.1rem;padding:14px 16px}.chart{padding:12px 10px}}

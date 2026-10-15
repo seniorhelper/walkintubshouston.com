@@ -1,48 +1,51 @@
 # Walk In Tubs Houston
 
-> WalkInTubsHouston.com helps homeowners, seniors and caregivers in the Houston area choose and install walk-in tubs, wheelchair-accessible transfer tubs, roll-in showers and walk-in showers. Part of the Aging Safely Baths family. BBB Accredited with an A+ rating. Quotes by phone at 1-888-779-2284 (BATH) or through the online quote form. Prices are quoted per home and are not published on the site.
+> WalkInTubsHouston.com helps homeowners, seniors and caregivers in the Houston area (Houston, Harris County and nearby suburbs from Katy to Conroe, Galveston to Baytown) choose and install walk-in tubs, wheelchair-accessible transfer tubs, roll-in showers and walk-in showers. Part of the Aging Safely Baths family; installs are done by Aging Safely Baths. BBB Accredited with an A+ rating. Quotes by phone at 1-888-779-2284 (BATH) or through the online quote form. Prices are quoted per home and are not published on the site.
 
-## Pages
+## Main pages
 
-- [Walk in tubs Houston](https://walkintubshouston.com/): Walk-in tub types, safety features, white-glove installation process, Houston home considerations (slab foundations, second floors, water heaters, electrical), funding options (Medicare, VA HISA, Texas Amy Young Barrier Removal Program, IRS Publication 502), local senior resources, service-area ZIP codes, roll-in shower overview with an interactive 3D model, and FAQ.
-- [Walk-in tub buying guide](https://walkintubshouston.com/walk-in-tub-buying-guide/): In-depth guide to choosing a walk-in tub: fit for the bather, measuring, sizes and seat height, inward, outward and transfer doors, fill and drain time, hot water capacity, hydrotherapy, materials, scald protection and electrical, Houston home factors, installation, cost factors, warranty questions, daily use, a pre-purchase checklist and FAQ.
-- [Senior bathroom safety checklist](https://walkintubshouston.com/senior-bathroom-safety-checklist/): Room-by-room checklist for an older adult: grab bar placement (ADA 33 to 36 inches), 120°F water heater setting and anti-scald valves, non-slip floors, night lighting, shower seating and raised toilets, Houston humidity and slab factors, and when to replace the tub.
-- [Contact and quote request](https://walkintubshouston.com/contact/): Request an installation quote by form or phone, what happens after you reach out, and service area.
-- [Privacy policy](https://walkintubshouston.com/privacy-policy/): How quote form information is collected, used and protected.
+- [Walk-in tubs Houston (home)](https://walkintubshouston.com/): Tub types, safety features, white-glove installation, Houston house factors (slab foundations, second floors, water heaters, electrical), funding overview, local resources, service-area ZIP codes, roll-in shower overview with an interactive 3D model, FAQ.
+- [Walk-in tub buying guide](https://walkintubshouston.com/walk-in-tub-buying-guide/): Fit for the bather, measuring, sizes and seat height, door styles, fill and drain time, hot water, hydrotherapy, materials, scald protection, installation, cost factors, warranty questions, checklist.
+- [Contact and quote request](https://walkintubshouston.com/contact/)
+- [Privacy policy](https://walkintubshouston.com/privacy-policy/)
 
-## Houston guides (added 2026-10-10)
+## Houston guides
 
-- [Walk-in tub cost in Houston](https://walkintubshouston.com/walk-in-tub-cost-houston/): sourced national ranges (Fixr, This Old House) and the Houston house details that change a quote.
-- [Paying for a walk-in tub](https://walkintubshouston.com/paying-for-a-walk-in-tub-houston/): Medicare limits, VA HISA via the Michael E. DeBakey VA, TDHCA Amy Young Barrier Removal, Harris County and H-GAC Area Agencies on Aging, IRS Pub 502.
-- [Installation and permits](https://walkintubshouston.com/walk-in-tub-installation-houston/): install steps, Houston Permitting Center basics, Texas plumber (TSBPE) and electrician (TDLR) licensing.
+- [Walk-in tub cost in Houston](https://walkintubshouston.com/walk-in-tub-cost-houston/): National ranges from Fixr (most projects about $3,500 to $10,000) and This Old House (about $1,800 to more than $20,000), the Houston house details that move a quote, and how to read a quote line by line.
+- [Paying for a walk-in tub](https://walkintubshouston.com/paying-for-a-walk-in-tub-houston/): Original Medicare generally does not pay; VA HISA grant ($6,800 or $2,000 lifetime) through the Michael E. DeBakey VA; Texas Medicaid STAR+PLUS minor home modifications ($7,500 lifetime limit plus $300 a year for repairs, per the HHS STAR+PLUS Handbook section 6600); TDHCA Amy Young Barrier Removal (up to $22,500); Area Agencies on Aging; IRS Publication 502.
+- [Installation and permits](https://walkintubshouston.com/walk-in-tub-installation-houston/): Install steps; City of Houston permit basics; Texas licensing: no general-contractor or plumbing-contractor license, plumbers licensed individually by the Texas State Board of Plumbing Examiners, businesses offering plumbing must have a Responsible Master Plumber (Occupations Code 1301.351), homestead owner exemption (1301.051); electricians licensed by TDLR.
 - [Walk-in tub or walk-in shower](https://walkintubshouston.com/walk-in-tub-vs-walk-in-shower-houston/)
-- [Flood, hurricane and humidity planning](https://walkintubshouston.com/houston-flood-hurricane-bathroom-planning/)
+- [Flood, hurricane and humidity planning](https://walkintubshouston.com/houston-flood-hurricane-bathroom-planning/): Harvey flooding, City of Houston Chapter 19 floodplain rule, Beryl power outages, what works without power, EPA humidity guidance.
+- [Houston hard water and your walk-in tub](https://walkintubshouston.com/houston-hard-water-walk-in-tub/): City of Houston 2025 Water Quality Report hardness by system (main system average 135.5 mg/L as CaCO3, range 43.5 to 229; Kingwood 124; Willow Chase 163.5; Belleau Woods 129; District 82 107; District 73 97.4), USGS hardness scale, effects on door seals, jets and water heaters, upkeep routine.
+- [Older adults in the Houston area, by the numbers](https://walkintubshouston.com/houston-older-adults-by-the-numbers/): U.S. Census Bureau ACS 2019 to 2023 5-year figures (tables B01001, B18101) for the 10-county Houston metro, each county and major suburbs: residents 65+, share 65+, residents 85+, and share of 65+ residents with a disability. Includes a chart with a data table.
 - [Measure your bathroom](https://walkintubshouston.com/measure-for-a-walk-in-tub/)
 - [Walk-in tub features explained](https://walkintubshouston.com/walk-in-tub-features/)
 - [Caregiver guide](https://walkintubshouston.com/caregiver-guide-houston/)
 - [Houston senior resources](https://walkintubshouston.com/houston-senior-resources/)
+- [Senior bathroom safety checklist](https://walkintubshouston.com/senior-bathroom-safety-checklist/)
 - [FAQ](https://walkintubshouston.com/walk-in-tub-faq/)
 - [Service areas](https://walkintubshouston.com/service-areas/)
-- City pages: [Katy](https://walkintubshouston.com/walk-in-tub-katy-tx/), [Sugar Land](https://walkintubshouston.com/walk-in-tub-sugar-land-tx/), [The Woodlands](https://walkintubshouston.com/walk-in-tub-the-woodlands-tx/), [Pearland](https://walkintubshouston.com/walk-in-tub-pearland-tx/), [League City](https://walkintubshouston.com/walk-in-tub-league-city-tx/), [Cypress](https://walkintubshouston.com/walk-in-tub-cypress-tx/), [Spring](https://walkintubshouston.com/walk-in-tub-spring-tx/), [Kingwood](https://walkintubshouston.com/walk-in-tub-kingwood-tx/), [Pasadena](https://walkintubshouston.com/walk-in-tub-pasadena-tx/), [Conroe](https://walkintubshouston.com/walk-in-tub-conroe-tx/)
-
-## Provider
-
-- Installer: Aging Safely Baths (https://www.agingsafelybaths.com/), since 2012, an Ella's Bubbles dealer; brands sold: Ella's Bubbles, Hydro Dimensions, Bestbath (incl. RANE by Bestbath), Meditub.
+- City pages, each with local permits, flood notes, aging agency and Census figures: [Katy](https://walkintubshouston.com/walk-in-tub-katy-tx/), [Sugar Land](https://walkintubshouston.com/walk-in-tub-sugar-land-tx/), [The Woodlands](https://walkintubshouston.com/walk-in-tub-the-woodlands-tx/), [Pearland](https://walkintubshouston.com/walk-in-tub-pearland-tx/), [League City](https://walkintubshouston.com/walk-in-tub-league-city-tx/), [Cypress](https://walkintubshouston.com/walk-in-tub-cypress-tx/), [Spring](https://walkintubshouston.com/walk-in-tub-spring-tx/), [Kingwood](https://walkintubshouston.com/walk-in-tub-kingwood-tx/), [Pasadena](https://walkintubshouston.com/walk-in-tub-pasadena-tx/), [Conroe](https://walkintubshouston.com/walk-in-tub-conroe-tx/)
 
 ## Key facts
 
-- Phone: 1-888-779-2284 (BATH)
-- Service area: Houston, Harris County and surrounding communities (Katy, Sugar Land, Missouri City, Pearland, Friendswood, Pasadena, Baytown, League City, Galveston, The Woodlands, Spring, Humble, Kingwood, Cypress, Tomball, Conroe). For other Texas regions and statewide programs, see https://walkintubstexas.com/.
-- Services: full white-glove installation (consultation, measuring, demo and haul-away of the old tub or shower, installation, walkthrough); supply-only orders with tech support included.
-- Handicap showers: 30-year warranty on the entire shower; 1-year labor warranty with white-glove installation; very low threshold for wheelchair roll-in; no mud setting needed on shower pans; walls reinforced with multi-ply plywood; round drain (left, right or center) or trench drain at the entry; padded fold-up seat, grab bars, handheld shower; fully customizable.
-- Related sites: Aging Safely Baths (https://www.agingsafelybaths.com/), Showers4Less (https://showers4less.com/), Shower Walls Kit (https://showerwallskit.com/).
+- Phone: 1-888-779-2284 (BATH). Email: sales@agingsafelybaths.com.
+- Service area: Houston, Harris County and surrounding communities (Katy, Sugar Land, Missouri City, Richmond, Rosenberg, Pearland, Friendswood, Pasadena, Deer Park, La Porte, Baytown, League City, Webster, Seabrook, Galveston, The Woodlands, Spring, Humble, Kingwood, Cypress, Tomball, Conroe). For other Texas regions and statewide programs, see https://walkintubstexas.com/.
+- Installer: Aging Safely Baths (https://www.agingsafelybaths.com/locations/houston-tx-walk-in-tubs-roll-in-showers/), helping families since 2012; an Ella's Bubbles dealer; also sells Hydro Dimensions, Bestbath (including RANE by Bestbath) and Meditub.
+- Services: full white-glove installation (consultation, measuring, demo and haul-away, installation, walkthrough); supply-only orders with tech support included.
+- Handicap showers: 30-year warranty on the entire shower; 1-year labor warranty with white-glove installation.
+- Aging agencies: Harris County Area Agency on Aging 832-393-4301; H-GAC Area Agency on Aging 1-800-437-7396.
+- Houston metro age 65+: about 875,800 residents (12.0%); Harris County about 543,500 (11.4%); 32.8% of metro residents 65+ report a disability (ACS 2019 to 2023).
 
 ## Sources cited on this site
 
-- CDC older adult falls data: https://www.cdc.gov/falls/data-research/index.html
-- CDC MMWR, Nonfatal bathroom injuries, 2008 (Vol. 60, No. 22): https://www.cdc.gov/mmwr/pdf/wk/mm6022.pdf
-- USAFacts, Harris County population: https://usafacts.org/data/topics/people-society/population-and-demographics/our-changing-population/state/texas/county/harris-county/
+- CDC older adult falls: https://www.cdc.gov/falls/data-research/index.html
+- CDC MMWR Vol. 60 No. 22 (bathroom injuries): https://www.cdc.gov/mmwr/pdf/wk/mm6022.pdf
+- U.S. Census Bureau ACS tables B01001 and B18101: https://data.census.gov/table/ACSDT5Y2023.B01001
+- Houston Public Works 2025 Water Quality Report: https://www.houstonpublicworks.org/sites/g/files/nwywnm456/files/doc/003_2025_houston_water_quality_report.pdf
 - VA HISA grant: https://www.prosthetics.va.gov/psas/HISA2.asp
+- Texas HHS STAR+PLUS Handbook 6600: https://fhb.hhs.texas.gov/handbooks/starplus-handbook/6600-minor-home-modifications
 - TDHCA Amy Young Barrier Removal Program: https://www.tdhca.texas.gov/programs/amy-young-barrier-removal-program-aybr
+- Texas State Board of Plumbing Examiners: https://tsbpe.texas.gov/
 - IRS Publication 502: https://www.irs.gov/publications/p502
 - Medicare durable medical equipment coverage: https://www.medicare.gov/coverage/durable-medical-equipment-dme-coverage

@@ -1,4 +1,4 @@
-/* Quote form + dialog (same logic as the original inline script). FormSubmit AJAX, honeypot, timing and engagement checks. */
+/* Quote form + dialog. FormSubmit AJAX (one request), honeypot, time trap, engagement check. A lead counts as sent only when FormSubmit replies success: "true". */
 (function(){
   var loadedAt = Date.now();
   var cfg = document.getElementById('qcfg');
@@ -45,7 +45,8 @@
       var thanks = 'Thank you. Your request was delivered and a specialist will call you soon. Need us sooner? Call ' + PHONE + '.';
       if (form.elements['_honey'].value){ return; }
       if (Date.now() - loadedAt < 3500){ setStatus(status, 'bad', 'Give the form a moment, then send again.'); return; }
-      if (!engaged){ return; }
+      if (!engaged){ setStatus(status, 'bad', 'Please check your details, then send again. Or call ' + PHONE + '.'); return; }
+      if (btn.disabled){ return; }
       var data = {
         name: name.value.trim(), phone: phone.value.trim(), zip: zip.value.trim(), email: email.value.trim(),
         project: form.elements['project'].value, timeline: form.elements['timeline'].value,
@@ -60,8 +61,8 @@
       }).then(function(r){
         return r.json().catch(function(){ return {}; }).then(function(j){ return {ok:r.ok, j:j}; });
       }).then(function(res){
-        if (res.ok && (res.j.success === true || res.j.success === 'true')) { form.reset(); setStatus(status, 'ok', thanks); }
-        else { setStatus(status, 'warn', 'We sent your request but could not confirm it arrived. Please call ' + PHONE + ' so nothing slips through.'); }
+        if (res.j && res.j.success === 'true') { form.reset(); setStatus(status, 'ok', thanks); }
+        else { setStatus(status, 'bad', 'Sorry, we could not confirm that your request arrived. Please call ' + PHONE + ' and we will help you right away.'); }
       }).catch(function(){
         setStatus(status, 'bad', 'Your request did not go through. Check your connection and try again, or call ' + PHONE + '.');
       }).then(function(){ btn.disabled = false; btn.textContent = 'Get my installation quote'; });
