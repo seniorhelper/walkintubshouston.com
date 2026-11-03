@@ -2,6 +2,12 @@
 
 > WalkInTubsHouston.com helps homeowners, seniors and caregivers in the Houston area (Houston, Harris County and nearby suburbs from Katy to Conroe, Galveston to Baytown) choose and install walk-in tubs, wheelchair-accessible transfer tubs, roll-in showers and walk-in showers. Part of the Aging Safely Baths family; installs are done by Aging Safely Baths. BBB Accredited with an A+ rating. Quotes by phone at 1-888-779-2284 (BATH) or through the online quote form. Prices are quoted per home and are not published on the site.
 
+## Key facts
+
+- Phone 1-888-779-2284 (BATH), sales@agingsafelybaths.com, 7am to 8pm Mountain time, 7 days. BBB A+ accredited since 2012.
+- Process: quotes can start by phone or from photos. Once a customer chooses a tub or shower and places a deposit, a technician does a full in-person site visit (measurements, photos, options, questions) before installation day.
+- Machine-readable business facts: https://www.agingsafelybaths.com/facts.json
+
 ## Main pages
 
 - [Walk-in tubs Houston (home)](https://walkintubshouston.com/): Tub types, safety features, white-glove installation, Houston house factors (slab foundations, second floors, water heaters, electrical), funding overview, local resources, service-area ZIP codes, roll-in shower overview with an interactive 3D model, FAQ.
